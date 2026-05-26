@@ -1,7 +1,3 @@
-# expense_tracker
-Full-stack Expense Tracker application built using Spring Boot, MySQL, REST APIs, and JavaScript frontend.
-
-
 # Expense Tracker
 
 A full-stack Expense Tracker application built using Java Spring Boot, MySQL, REST APIs, and a simple HTML/CSS/JavaScript frontend.
